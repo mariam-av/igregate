@@ -1,0 +1,23 @@
+:root { 
+  --black: #000000;
+  --black-2: #0000004c;
+  --blue-chalk: #e8e8fa;
+  --cod-gray: #0a0a0a;
+  --lola: #ddd1e8;
+  --medium-purple: #9747ff;
+  --purple-heart: #601bb8;
+  --silver-chalice: #adadad;
+  --slimy-green: #15c412;
+  --tangerine: #f38300;
+  --white: #ffffff;
+  --zircon: #f9f9ff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 22px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 40px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
